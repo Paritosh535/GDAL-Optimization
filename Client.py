@@ -1,6 +1,6 @@
 # Python Script to return a list of values from a list of rasters based on coordinates (Long/Lat).  
 # Trevor Hobbs - Contour Geographic
-# Requires GDAL (Geographic Data Abstraction Library).  
+# Requires GDAL (Geographic Data Abstraction Library)
 
 import json
 from sys import argv
